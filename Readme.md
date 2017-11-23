@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Влад Соболев](https://up.htmlacademy.ru/javascript/11/user/543775).
-* Наставник: `Неизвестно`.
+* Наставник: [Денис Корнейчук](https://htmlacademy.ru/profile/id70618).
 
 ---
 
